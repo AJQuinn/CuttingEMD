@@ -12,7 +12,7 @@ The EMD documentation tutorials can run anywhere that EMD has been installed ([s
 
 |  Colab Link  |  Tutorial  |
 | - | --- |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/CuttingEMD.ipynb) |  **Tutorial 1**: Introduction to sifting. |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/emd_tutorial_01_sift_01_siftintro.ipynb) |  **CuttingEMD**: Solving mode-mixing with mask sifting. |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/emd_tutorial_01_sift_04_masksift.ipynb) |  **CuttingEMD**: Instantaneous frequency and the Hilbert-Huang Transform. |
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/emd_tutorial_02_spectrum_01_hilberthuang.ipynb) |  **CuttingEMD**: Simple EEG EMD analysis using a data from LEMON. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/emd_tutorial_01_sift_01_siftintro.ipynb) | **Tutorial 1**: Introduction to sifting. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/emd_tutorial_01_sift_04_masksift.ipynb) |  **Tutorial 2**: Solving mode-mixing with mask sifting. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/emd_tutorial_02_spectrum_01_hilberthuang.ipynb) |  **Tutorial 3**: Instantaneous frequency and the Hilbert-Huang Transform. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ajquinn/CuttingEMD/blob/main/CuttingEMD.ipynb) |  **CuttingEMD**: Simple EEG EMD analysis using a data from LEMON. |
