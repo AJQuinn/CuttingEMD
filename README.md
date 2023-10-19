@@ -8,7 +8,9 @@ This tutorial packages a subset of the tutorials from the [EMD documentation](ht
 The EMD documentation tutorials can run anywhere that EMD has been installed ([see here for installation instructions](https://emd.readthedocs.io/en/stable/install.html)). The CuttingEMD EEG application additionally requires [OSL](https://pypi.org/project/osl/) which can be installed with pip. All notebooks have `pip install` requirements in a commented cell at the top.
 
 
-## 
+## Open interactive notebooks
+
+You can run these tutorials where you link, but these links will open each tutorial in an interactive google colab session where you can run the code in-browser.
 
 |  Colab Link  |  Tutorial  |
 | - | --- |
